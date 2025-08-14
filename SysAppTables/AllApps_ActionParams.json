@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ActionParams",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ActionParams",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ServCalls",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ServCalls",
+  "manual": false,
+  "manualdrop": false
+}

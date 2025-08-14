@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysPageItems",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysPageItems",
+  "manual": false,
+  "manualdrop": false
+}

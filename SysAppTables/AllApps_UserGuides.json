@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:UserGuides",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "UserGuides",
+  "manual": false,
+  "manualdrop": false
+}

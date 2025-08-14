@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Tasks",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Tasks",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "Attendance:ReportWorkHours",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Attendance",
+  "tablename": "ReportWorkHours",
+  "manual": false,
+  "manualdrop": false
+}

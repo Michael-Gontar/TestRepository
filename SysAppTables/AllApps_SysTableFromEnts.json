@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysTableFromEnts",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysTableFromEnts",
+  "manual": false,
+  "manualdrop": false
+}

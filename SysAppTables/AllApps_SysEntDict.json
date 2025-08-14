@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysEntDict",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysEntDict",
+  "manual": false,
+  "manualdrop": false
+}

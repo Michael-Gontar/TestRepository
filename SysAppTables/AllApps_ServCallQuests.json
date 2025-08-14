@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ServCallQuests",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ServCallQuests",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:PurOrders",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "PurOrders",
+  "manual": false,
+  "manualdrop": false
+}

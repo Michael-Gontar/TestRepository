@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysProcedureMessages",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysProcedureMessages",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Locations",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Locations",
+  "manual": false,
+  "manualdrop": false
+}

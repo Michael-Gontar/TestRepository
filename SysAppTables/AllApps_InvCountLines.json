@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:InvCountLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "InvCountLines",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:BackOfficeTasks",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "BackOfficeTasks",
+  "manual": false,
+  "manualdrop": false
+}

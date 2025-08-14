@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysTriggers",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysTriggers",
+  "manual": false,
+  "manualdrop": false
+}

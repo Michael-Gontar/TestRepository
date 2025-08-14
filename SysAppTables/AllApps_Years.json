@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Years",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Years",
+  "manual": false,
+  "manualdrop": false
+}

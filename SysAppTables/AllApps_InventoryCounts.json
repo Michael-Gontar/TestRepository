@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:InventoryCounts",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "InventoryCounts",
+  "manual": false,
+  "manualdrop": false
+}

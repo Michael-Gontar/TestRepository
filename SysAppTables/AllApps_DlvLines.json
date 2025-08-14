@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:DlvLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "DlvLines",
+  "manual": false,
+  "manualdrop": false
+}

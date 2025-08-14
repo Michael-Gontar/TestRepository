@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SupReturns",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SupReturns",
+  "manual": false,
+  "manualdrop": false
+}

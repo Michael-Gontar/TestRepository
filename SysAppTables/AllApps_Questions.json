@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Questions",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Questions",
+  "manual": false,
+  "manualdrop": false
+}

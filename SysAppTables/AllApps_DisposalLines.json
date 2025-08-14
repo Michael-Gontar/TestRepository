@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:DisposalLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "DisposalLines",
+  "manual": false,
+  "manualdrop": false
+}

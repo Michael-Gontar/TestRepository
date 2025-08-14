@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysProcedureLibraries",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysProcedureLibraries",
+  "manual": false,
+  "manualdrop": false
+}

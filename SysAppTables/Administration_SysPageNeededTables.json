@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysPageNeededTables",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysPageNeededTables",
+  "manual": false,
+  "manualdrop": false
+}

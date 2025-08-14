@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Suppliers",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Suppliers",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:NextStatus",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "NextStatus",
+  "manual": false,
+  "manualdrop": false
+}

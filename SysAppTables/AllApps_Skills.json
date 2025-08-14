@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Skills",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Skills",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:CustSpecPrices",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "CustSpecPrices",
+  "manual": false,
+  "manualdrop": false
+}

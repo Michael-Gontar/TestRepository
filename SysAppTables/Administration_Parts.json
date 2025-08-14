@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Parts",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Parts",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysEntities",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysEntities",
+  "manual": false,
+  "manualdrop": false
+}

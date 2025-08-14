@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:OpportLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "OpportLines",
+  "manual": false,
+  "manualdrop": false
+}

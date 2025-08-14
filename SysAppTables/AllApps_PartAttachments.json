@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:PartAttachments",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "PartAttachments",
+  "manual": false,
+  "manualdrop": false
+}

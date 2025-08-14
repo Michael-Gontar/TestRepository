@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysIcons",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysIcons",
+  "manual": false,
+  "manualdrop": false
+}

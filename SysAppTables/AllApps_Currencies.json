@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Currencies",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Currencies",
+  "manual": false,
+  "manualdrop": false
+}

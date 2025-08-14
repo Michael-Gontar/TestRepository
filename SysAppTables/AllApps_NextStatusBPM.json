@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:NextStatusBPM",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "NextStatusBPM",
+  "manual": false,
+  "manualdrop": false
+}

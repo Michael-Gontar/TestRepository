@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:RolePrivileges",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "RolePrivileges",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:NgvUserDevices",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "NgvUserDevices",
+  "manual": false,
+  "manualdrop": false
+}

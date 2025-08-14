@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Languages",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Languages",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysCmdTypes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysCmdTypes",
+  "manual": false,
+  "manualdrop": false
+}

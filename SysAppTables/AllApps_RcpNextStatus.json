@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:RcpNextStatus",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "RcpNextStatus",
+  "manual": false,
+  "manualdrop": false
+}

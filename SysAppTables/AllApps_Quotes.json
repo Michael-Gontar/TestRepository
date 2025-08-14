@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Quotes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Quotes",
+  "manual": false,
+  "manualdrop": false
+}

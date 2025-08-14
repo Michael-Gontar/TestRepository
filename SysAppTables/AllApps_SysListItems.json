@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysListItems",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysListItems",
+  "manual": false,
+  "manualdrop": false
+}

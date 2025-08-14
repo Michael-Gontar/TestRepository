@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:WrhSyncLocations",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "WrhSyncLocations",
+  "manual": false,
+  "manualdrop": false
+}

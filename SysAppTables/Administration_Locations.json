@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Locations",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Locations",
+  "manual": false,
+  "manualdrop": false
+}

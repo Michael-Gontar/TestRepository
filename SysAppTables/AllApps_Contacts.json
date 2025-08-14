@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Contacts",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Contacts",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:PricesSummery",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "PricesSummery",
+  "manual": false,
+  "manualdrop": false
+}

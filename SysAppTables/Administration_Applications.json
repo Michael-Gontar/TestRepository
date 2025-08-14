@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Applications",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Applications",
+  "manual": false,
+  "manualdrop": false
+}

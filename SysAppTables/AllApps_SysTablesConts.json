@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysTablesConts",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysTablesConts",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SerNumberMaints",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SerNumberMaints",
+  "manual": false,
+  "manualdrop": false
+}

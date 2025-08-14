@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysEntDict",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysEntDict",
+  "manual": false,
+  "manualdrop": false
+}

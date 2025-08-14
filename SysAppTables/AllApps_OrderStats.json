@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:OrderStats",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "OrderStats",
+  "manual": false,
+  "manualdrop": false
+}

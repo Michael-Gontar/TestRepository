@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:StartCommands",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "StartCommands",
+  "manual": false,
+  "manualdrop": false
+}

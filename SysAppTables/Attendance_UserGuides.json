@@ -1,0 +1,9 @@
+{
+  "primarykey": "Attendance:UserGuides",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Attendance",
+  "tablename": "UserGuides",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:EmployeesAdmin",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "EmployeesAdmin",
+  "manual": false,
+  "manualdrop": false
+}

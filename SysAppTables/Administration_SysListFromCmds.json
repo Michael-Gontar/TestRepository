@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysListFromCmds",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysListFromCmds",
+  "manual": false,
+  "manualdrop": false
+}

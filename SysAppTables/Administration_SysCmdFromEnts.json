@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysCmdFromEnts",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysCmdFromEnts",
+  "manual": false,
+  "manualdrop": false
+}

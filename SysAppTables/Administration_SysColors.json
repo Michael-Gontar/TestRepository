@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysColors",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysColors",
+  "manual": false,
+  "manualdrop": false
+}

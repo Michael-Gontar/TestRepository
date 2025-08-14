@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:CustReturns",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "CustReturns",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysFontStyles",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysFontStyles",
+  "manual": false,
+  "manualdrop": false
+}

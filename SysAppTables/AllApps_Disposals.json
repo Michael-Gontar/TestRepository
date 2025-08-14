@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Disposals",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Disposals",
+  "manual": false,
+  "manualdrop": false
+}

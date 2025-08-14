@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:NgvUserEnvDefs",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "NgvUserEnvDefs",
+  "manual": false,
+  "manualdrop": false
+}

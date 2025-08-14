@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:StartCommands",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "StartCommands",
+  "manual": false,
+  "manualdrop": false
+}

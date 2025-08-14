@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:PriForms",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "PriForms",
+  "manual": false,
+  "manualdrop": false
+}

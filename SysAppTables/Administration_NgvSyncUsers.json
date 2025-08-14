@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:NgvSyncUsers",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "NgvSyncUsers",
+  "manual": false,
+  "manualdrop": false
+}

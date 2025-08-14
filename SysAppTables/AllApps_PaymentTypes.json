@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:PaymentTypes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "PaymentTypes",
+  "manual": false,
+  "manualdrop": false
+}

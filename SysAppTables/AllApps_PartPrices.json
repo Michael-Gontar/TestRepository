@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:PartPrices",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "PartPrices",
+  "manual": false,
+  "manualdrop": false
+}

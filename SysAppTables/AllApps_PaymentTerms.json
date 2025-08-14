@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:PaymentTerms",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "PaymentTerms",
+  "manual": false,
+  "manualdrop": false
+}

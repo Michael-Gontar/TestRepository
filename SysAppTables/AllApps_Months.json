@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Months",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Months",
+  "manual": false,
+  "manualdrop": false
+}

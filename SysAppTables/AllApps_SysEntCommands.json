@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysEntCommands",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysEntCommands",
+  "manual": false,
+  "manualdrop": false
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:MaintTypes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "MaintTypes",
+  "manual": false,
+  "manualdrop": false
+}

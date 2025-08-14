@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:CustSites",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "CustSites",
+  "manual": false,
+  "manualdrop": false
+}

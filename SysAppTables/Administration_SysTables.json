@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysTables",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysTables",
+  "manual": false,
+  "manualdrop": false
+}

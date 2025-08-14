@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysPageMessages",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysPageMessages",
+  "manual": false,
+  "manualdrop": false
+}

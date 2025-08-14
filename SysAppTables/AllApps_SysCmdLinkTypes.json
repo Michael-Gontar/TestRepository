@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysCmdLinkTypes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysCmdLinkTypes",
+  "manual": false,
+  "manualdrop": false
+}

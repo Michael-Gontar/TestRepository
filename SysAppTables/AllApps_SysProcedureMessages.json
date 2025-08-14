@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysProcedureMessages",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysProcedureMessages",
+  "manual": false,
+  "manualdrop": false
+}

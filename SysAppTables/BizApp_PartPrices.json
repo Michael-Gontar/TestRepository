@@ -1,0 +1,9 @@
+{
+  "primarykey": "BizApp:PartPrices",
+  "ngv_hashcode": "",
+  "ngv_modifydate": "2025-06-25T11:01:42.348178",
+  "appname": "BizApp",
+  "tablename": "PartPrices",
+  "manual": false,
+  "manualdrop": true
+}

@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Warehouses",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Warehouses",
+  "manual": false,
+  "manualdrop": false
+}

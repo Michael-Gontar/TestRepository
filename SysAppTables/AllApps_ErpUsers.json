@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ErpUsers",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ErpUsers",
+  "manual": false,
+  "manualdrop": false
+}

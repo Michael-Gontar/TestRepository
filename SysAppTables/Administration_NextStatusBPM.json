@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:NextStatusBPM",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "NextStatusBPM",
+  "manual": false,
+  "manualdrop": false
+}

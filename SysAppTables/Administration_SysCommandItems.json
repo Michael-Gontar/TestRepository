@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysCommandItems",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysCommandItems",
+  "manual": false,
+  "manualdrop": false
+}

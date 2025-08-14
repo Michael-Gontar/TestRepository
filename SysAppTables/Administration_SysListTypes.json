@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:SysListTypes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "SysListTypes",
+  "manual": false,
+  "manualdrop": false
+}

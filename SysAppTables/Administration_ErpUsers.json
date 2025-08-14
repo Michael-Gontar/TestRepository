@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:ErpUsers",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "ErpUsers",
+  "manual": false,
+  "manualdrop": false
+}

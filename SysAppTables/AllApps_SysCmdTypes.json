@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysCmdTypes",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysCmdTypes",
+  "manual": false,
+  "manualdrop": false
+}

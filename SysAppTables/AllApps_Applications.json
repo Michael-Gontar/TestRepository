@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:Applications",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "Applications",
+  "manual": false,
+  "manualdrop": false
+}

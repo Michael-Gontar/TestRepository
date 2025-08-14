@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:NgvUserDevices",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "NgvUserDevices",
+  "manual": false,
+  "manualdrop": false
+}

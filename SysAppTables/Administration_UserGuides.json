@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:UserGuides",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "UserGuides",
+  "manual": false,
+  "manualdrop": false
+}

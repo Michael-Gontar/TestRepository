@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:OrderAttachments",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "OrderAttachments",
+  "manual": false,
+  "manualdrop": false
+}

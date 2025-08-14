@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysEntities",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysEntities",
+  "manual": false,
+  "manualdrop": false
+}

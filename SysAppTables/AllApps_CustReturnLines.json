@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:CustReturnLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "CustReturnLines",
+  "manual": false,
+  "manualdrop": false
+}

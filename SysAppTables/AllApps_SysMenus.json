@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysMenus",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysMenus",
+  "manual": false,
+  "manualdrop": false
+}

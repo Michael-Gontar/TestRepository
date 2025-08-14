@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:AdditionalDefs",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "AdditionalDefs",
+  "manual": false,
+  "manualdrop": false
+}

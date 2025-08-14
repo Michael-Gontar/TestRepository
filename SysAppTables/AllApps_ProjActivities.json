@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ProjActivities",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ProjActivities",
+  "manual": false,
+  "manualdrop": false
+}

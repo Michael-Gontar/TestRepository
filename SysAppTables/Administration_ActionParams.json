@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:ActionParams",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "ActionParams",
+  "manual": false,
+  "manualdrop": false
+}

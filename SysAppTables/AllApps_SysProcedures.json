@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:SysProcedures",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "SysProcedures",
+  "manual": false,
+  "manualdrop": false
+}

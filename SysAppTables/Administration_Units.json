@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Units",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Units",
+  "manual": false,
+  "manualdrop": false
+}

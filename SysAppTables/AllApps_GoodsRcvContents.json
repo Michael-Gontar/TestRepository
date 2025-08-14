@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:GoodsRcvContents",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "GoodsRcvContents",
+  "manual": false,
+  "manualdrop": false
+}

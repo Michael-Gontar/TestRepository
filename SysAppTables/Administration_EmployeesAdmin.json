@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:EmployeesAdmin",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "EmployeesAdmin",
+  "manual": false,
+  "manualdrop": false
+}

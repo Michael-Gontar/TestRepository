@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ShipmentStats",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ShipmentStats",
+  "manual": false,
+  "manualdrop": false
+}

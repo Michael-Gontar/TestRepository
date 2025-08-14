@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ReceiptInvoices",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ReceiptInvoices",
+  "manual": false,
+  "manualdrop": false
+}

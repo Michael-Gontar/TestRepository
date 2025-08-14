@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:Statuses",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "Statuses",
+  "manual": false,
+  "manualdrop": false
+}

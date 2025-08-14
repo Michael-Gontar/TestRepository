@@ -1,0 +1,9 @@
+{
+  "primarykey": "Attendance:ReportAbsences",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Attendance",
+  "tablename": "ReportAbsences",
+  "manual": false,
+  "manualdrop": false
+}

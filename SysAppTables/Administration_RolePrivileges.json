@@ -1,0 +1,9 @@
+{
+  "primarykey": "Administration:RolePrivileges",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "Administration",
+  "tablename": "RolePrivileges",
+  "manual": false,
+  "manualdrop": false
+}

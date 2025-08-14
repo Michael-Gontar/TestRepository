@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:OrderLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "OrderLines",
+  "manual": false,
+  "manualdrop": false
+}

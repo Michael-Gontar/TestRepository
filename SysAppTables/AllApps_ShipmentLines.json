@@ -1,0 +1,9 @@
+{
+  "primarykey": "AllApps:ShipmentLines",
+  "ngv_hashcode": null,
+  "ngv_modifydate": null,
+  "appname": "AllApps",
+  "tablename": "ShipmentLines",
+  "manual": false,
+  "manualdrop": false
+}
